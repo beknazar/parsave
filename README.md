@@ -6,5 +6,5 @@ Use example:
 ```
 	temp = {1, 2, 3};
 	temp2 = 90;
-	parsave('temp.mat', alpha, temp, temp2);
+	parsave('temp.mat', 2, temp, temp2);
 ```
